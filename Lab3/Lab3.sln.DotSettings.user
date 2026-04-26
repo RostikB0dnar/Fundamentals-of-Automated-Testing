@@ -1,20 +1,7 @@
 ﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=968d299d_002D0566_002D4b48_002Daf76_002Df5ffd50d6117/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Modulus_PositiveNumbers_ReturnsCorrectResult" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=22da0a5c_002D4bbb_002D4508_002D9e4d_002Da4614bb1976c/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Get_AllBookings_ShouldReturn200" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
   &lt;TestAncestor&gt;&#xD;
-    &lt;TestId&gt;xUnit::BE9868A0-5379-4460-BE67-14F857ACD67A::net10.0::MathLibrary.Tests.MathFunctionsTests.Modulus_PositiveNumbers_ReturnsCorrectResult&lt;/TestId&gt;&#xD;
-    &lt;TestId&gt;xUnit::BE9868A0-5379-4460-BE67-14F857ACD67A::net10.0::MathLibrary.Tests.MathFunctionsTests.Modulus_NegativeDividend_ReturnsCorrectResult&lt;/TestId&gt;&#xD;
-    &lt;TestId&gt;xUnit::BE9868A0-5379-4460-BE67-14F857ACD67A::net10.0::MathLibrary.Tests.MathFunctionsTests.Modulus_NegativeDivisor_ReturnsCorrectResult&lt;/TestId&gt;&#xD;
-    &lt;TestId&gt;xUnit::BE9868A0-5379-4460-BE67-14F857ACD67A::net10.0::MathLibrary.Tests.MathFunctionsTests.Modulus_DivisionByZero_ThrowsException&lt;/TestId&gt;&#xD;
-    &lt;TestId&gt;xUnit::BE9868A0-5379-4460-BE67-14F857ACD67A::net10.0::MathLibrary.Tests.MathFunctionsTests.Modulus_ZeroDividend_ReturnsZero&lt;/TestId&gt;&#xD;
-    &lt;TestId&gt;xUnit::BE9868A0-5379-4460-BE67-14F857ACD67A::net10.0::MathLibrary.Tests.MathFunctionsTests.Power_PositiveExponent_ReturnsCorrectResult&lt;/TestId&gt;&#xD;
-    &lt;TestId&gt;xUnit::BE9868A0-5379-4460-BE67-14F857ACD67A::net10.0::MathLibrary.Tests.MathFunctionsTests.Power_ZeroExponent_ReturnsOne&lt;/TestId&gt;&#xD;
-    &lt;TestId&gt;xUnit::BE9868A0-5379-4460-BE67-14F857ACD67A::net10.0::MathLibrary.Tests.MathFunctionsTests.Power_NegativeExponent_ReturnsCorrectResult&lt;/TestId&gt;&#xD;
-    &lt;TestId&gt;xUnit::BE9868A0-5379-4460-BE67-14F857ACD67A::net10.0::MathLibrary.Tests.MathFunctionsTests.Power_ZeroBase_ReturnsZero&lt;/TestId&gt;&#xD;
-    &lt;TestId&gt;xUnit::BE9868A0-5379-4460-BE67-14F857ACD67A::net10.0::MathLibrary.Tests.MathFunctionsTests.Power_FractionalExponent_ReturnsCorrectResult&lt;/TestId&gt;&#xD;
-    &lt;TestId&gt;xUnit::BE9868A0-5379-4460-BE67-14F857ACD67A::net10.0::MathLibrary.Tests.MathFunctionsTests.Sqrt_PositiveNumber_ReturnsCorrectResult&lt;/TestId&gt;&#xD;
-    &lt;TestId&gt;xUnit::BE9868A0-5379-4460-BE67-14F857ACD67A::net10.0::MathLibrary.Tests.MathFunctionsTests.Sqrt_Zero_ReturnsZero&lt;/TestId&gt;&#xD;
-    &lt;TestId&gt;xUnit::BE9868A0-5379-4460-BE67-14F857ACD67A::net10.0::MathLibrary.Tests.MathFunctionsTests.Sqrt_Fraction_ReturnsCorrectResult&lt;/TestId&gt;&#xD;
-    &lt;TestId&gt;xUnit::BE9868A0-5379-4460-BE67-14F857ACD67A::net10.0::MathLibrary.Tests.MathFunctionsTests.Sqrt_NegativeNumber_ReturnsNaN&lt;/TestId&gt;&#xD;
-    &lt;TestId&gt;xUnit::BE9868A0-5379-4460-BE67-14F857ACD67A::net10.0::MathLibrary.Tests.MathFunctionsTests.Sqrt_LargeNumber_ReturnsCorrectResult&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::BE9868A0-5379-4460-BE67-14F857ACD67A::net10.0::MathLibrary.Tests.ApiSmokeTests.Get_AllBookings_ShouldReturn200&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::BE9868A0-5379-4460-BE67-14F857ACD67A::net10.0::MathLibrary.Tests.ApiTests&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
