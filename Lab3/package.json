@@ -1,0 +1,17 @@
+{
+  "name": "lab3",
+  "version": "1.0.0",
+  "main": "lab8.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "cypress": "^15.14.1",
+    "protractor": "^7.0.0",
+    "webdriver-manager": "^12.1.9"
+  }
+}
