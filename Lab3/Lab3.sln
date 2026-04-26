@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathLibrary", "MathLibrary\MathLibrary.csproj", "{3DA62327-B4FB-4712-BD20-CFE70A45624B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathLibrary.Tests", "MathLibrary.Tests\MathLibrary.Tests.csproj", "{BE9868A0-5379-4460-BE67-14F857ACD67A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3DA62327-B4FB-4712-BD20-CFE70A45624B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DA62327-B4FB-4712-BD20-CFE70A45624B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DA62327-B4FB-4712-BD20-CFE70A45624B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DA62327-B4FB-4712-BD20-CFE70A45624B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE9868A0-5379-4460-BE67-14F857ACD67A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE9868A0-5379-4460-BE67-14F857ACD67A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE9868A0-5379-4460-BE67-14F857ACD67A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE9868A0-5379-4460-BE67-14F857ACD67A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
