@@ -11,6 +11,7 @@
           "FluentAssertions": "8.9.0",
           "MathLibrary": "1.0.0",
           "Microsoft.NET.Test.Sdk": "17.14.1",
+          "Microsoft.Playwright": "1.59.0",
           "xunit": "2.9.3"
         },
         "runtime": {
@@ -22,6 +23,14 @@
           "lib/net6.0/FluentAssertions.dll": {
             "assemblyVersion": "8.9.0.0",
             "fileVersion": "8.9.0.0"
+          }
+        }
+      },
+      "Microsoft.Bcl.AsyncInterfaces/6.0.0": {
+        "runtime": {
+          "lib/netstandard2.1/Microsoft.Bcl.AsyncInterfaces.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.21.52210"
           }
         }
       },
@@ -37,6 +46,17 @@
         "dependencies": {
           "Microsoft.CodeCoverage": "17.14.1",
           "Microsoft.TestPlatform.TestHost": "17.14.1"
+        }
+      },
+      "Microsoft.Playwright/1.59.0": {
+        "dependencies": {
+          "Microsoft.Bcl.AsyncInterfaces": "6.0.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Playwright.dll": {
+            "assemblyVersion": "1.59.0.0",
+            "fileVersion": "1.59.0.0"
+          }
         }
       },
       "Microsoft.TestPlatform.ObjectModel/17.14.1": {
@@ -363,6 +383,13 @@
       "path": "fluentassertions/8.9.0",
       "hashPath": "fluentassertions.8.9.0.nupkg.sha512"
     },
+    "Microsoft.Bcl.AsyncInterfaces/6.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-UcSjPsst+DfAdJGVDsu346FX0ci0ah+lw3WRtn18NUwEqRt70HaOQ7lI72vy3+1LxtqI3T5GWwV39rQSrCzAeg==",
+      "path": "microsoft.bcl.asyncinterfaces/6.0.0",
+      "hashPath": "microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512"
+    },
     "Microsoft.CodeCoverage/17.14.1": {
       "type": "package",
       "serviceable": true,
@@ -376,6 +403,13 @@
       "sha512": "sha512-HJKqKOE+vshXra2aEHpi2TlxYX7Z9VFYkr+E5rwEvHC8eIXiyO+K9kNm8vmNom3e2rA56WqxU+/N9NJlLGXsJQ==",
       "path": "microsoft.net.test.sdk/17.14.1",
       "hashPath": "microsoft.net.test.sdk.17.14.1.nupkg.sha512"
+    },
+    "Microsoft.Playwright/1.59.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-igqHbZMmXI6cYNPg1X1o5/51U3CQp83lvvov/d/zmus2wlG1LjvpEL6i1Jx51pRahPtSyppvwq+ZoBfxeSjiew==",
+      "path": "microsoft.playwright/1.59.0",
+      "hashPath": "microsoft.playwright.1.59.0.nupkg.sha512"
     },
     "Microsoft.TestPlatform.ObjectModel/17.14.1": {
       "type": "package",
